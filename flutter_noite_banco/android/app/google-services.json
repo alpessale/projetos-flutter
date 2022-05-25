@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982218936538",
+    "project_id": "novobanconoite",
+    "storage_bucket": "novobanconoite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982218936538:android:4238838d5f7d0d35ddd5e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_noite_banco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982218936538-3arhbqvsfve5pheghjov3ou21m44j4at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08pMk_I0ARrIaF8ltJ4IWv6Qz58PbCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982218936538-3arhbqvsfve5pheghjov3ou21m44j4at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
