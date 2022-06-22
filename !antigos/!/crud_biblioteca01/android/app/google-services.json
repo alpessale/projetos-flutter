@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590116290152",
+    "project_id": "livros-8e2e3",
+    "storage_bucket": "livros-8e2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590116290152:android:7b3fbd35e97b246e9d05dd",
+        "android_client_info": {
+          "package_name": "github.comlucasmenchon.crud_biblioteca01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590116290152-2bo9m3oaqavkusi2kn3ggnm7em1pc4go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhlJeut0cDaXANe2oDgb0T4rp0IoxmIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590116290152-2bo9m3oaqavkusi2kn3ggnm7em1pc4go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

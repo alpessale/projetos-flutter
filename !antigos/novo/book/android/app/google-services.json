@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740326890770",
+    "project_id": "livros-c3138",
+    "storage_bucket": "livros-c3138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740326890770:android:0001466acf7a3215b267cb",
+        "android_client_info": {
+          "package_name": "github.comlucasmenchon.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740326890770-sg14g36josh3rerat40m071n9e2feqmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_rBIQaD5kbixGXQHuXRTBj0EV8b52V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740326890770-sg14g36josh3rerat40m071n9e2feqmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
